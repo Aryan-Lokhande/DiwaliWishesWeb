@@ -1,0 +1,53 @@
+p .abc{
+        font-size: 12pt;
+}
+
+p{
+    font-size: 15pt;
+    background-color: #662549ee;    
+    color: #fff5e0;
+}   
+
+body{
+    background-image: url(Diwali\ Fireworks.jpg) ;
+    
+}
+
+marquee{
+    font-size: 16pt;
+    color: #141e46;
+}
+footer{
+    font-size: 12pt;
+    background-color: #141e46;
+    color: cornsilk;
+    margin-top: 1%;
+}
+
+#Address{
+    color: aliceblue;
+    font-size: 15pt;
+    background-color: #141e46;
+}
+
+.header {
+    background-color: #ae445a;
+    color:gold;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    font-size: 16px;
+}
+
+h1{
+    color: gainsboro;
+}
+.social {
+    position: absolute;
+    left: 0;
+    bottom: 30px;
+    right: 0;
+    opacity: 0;
+    transition: ease-in-out 0.3s;
+    text-align: center;
+  }
