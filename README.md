@@ -1,3 +1,6 @@
+<div class="col-md-12"> <!--Banner div-->
+            <img src="image/happy-diwali-banner.avif" style="width: 100%;height: 200px;" alt="happy-diwali-banner img">
+        </div> <!--banner div close-->
 # DiwaliWishesWeb
 DiwaliWishesWeb is a website design to spread joy and greeting during Festival of Lights.
 Sending Heartfelt Diwali Wishes and greeting to loved ones through this platform.
