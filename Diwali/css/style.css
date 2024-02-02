@@ -1,30 +1,38 @@
-p .abc{
-        font-size: 12pt;
+p .abc {
+    font-size: 12pt;
 }
 
-p{
+p {
     font-size: 15pt;
-    background-color: #662549ee;    
+    background-color: #662549ee;
     color: #fff5e0;
-}   
-
-body{
-    background-image: url(Diwali\ Fireworks.jpg) ;
-    
 }
 
-marquee{
+body {
+    background-image: url(Diwali\ Fireworks.jpg);
+
+}
+
+#navbar {
+    color: #451952;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+marquee {
     font-size: 16pt;
     color: #141e46;
 }
-footer{
+
+footer {
     font-size: 12pt;
     background-color: #141e46;
     color: cornsilk;
     margin-top: 1%;
 }
 
-#Address{
+#Address {
     color: aliceblue;
     font-size: 15pt;
     background-color: #141e46;
@@ -32,16 +40,17 @@ footer{
 
 .header {
     background-color: #ae445a;
-    color:gold;
+    color: gold;
     padding: 10px;
     position: sticky;
     top: 0;
     font-size: 16px;
 }
 
-h1{
+h1 {
     color: gainsboro;
 }
+
 .social {
     position: absolute;
     left: 0;
@@ -50,4 +59,14 @@ h1{
     opacity: 0;
     transition: ease-in-out 0.3s;
     text-align: center;
-  }
+}
+
+#roller{
+    border: double tomato;
+}
+
+#active-nav{
+    color: #fff5e0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+}
